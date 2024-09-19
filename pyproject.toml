@@ -1,0 +1,11 @@
+[project]
+name = "xray"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "circuitsvis>=1.41.0",
+    "ipykernel>=6.29.5",
+    "transformer-lens>=2.6.0",
+]
